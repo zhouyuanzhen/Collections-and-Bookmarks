@@ -9,6 +9,23 @@ My Collections and Bookmarks
 
 ## Cloud Computing
 
+### Public Cloud Hyperscalers
+
+#### China Cloud Vendors
+
+##### Alibaba Cloud
+
+- https://www.aliyun.com
+- https://console.aliyun.com
+
+##### AWS China
+
+##### Azure China
+
+##### Tencent Cloud
+
+#### International Cloud Vendors
+
 ## DevOps
 
 ## Security
