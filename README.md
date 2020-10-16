@@ -11,26 +11,12 @@ My Collections and Bookmarks
 
 ### Public Cloud Hyperscalers
 
-#### China Cloud Vendors
-
-- Alibaba Cloud
-  - https://www.aliyun.com
-  - https://console.aliyun.com
-
-- AWS China
-
-   - https://www.amazonaws.cn
-   - https://console.amazonaws.cn
-
-- Azure China
-
-   - https://www.azure.cn
-   - https://portal.azure.cn
-
-- Tencent Cloud
-
-   - https://cloud.tencent.com
-   - https://console.cloud.tencent.com
+|                  | Alibaba Cloud              | AWS                          | Azure                   | GCP  | Tencent                           |
+| ---------------- | -------------------------- | ---------------------------- | ----------------------- | ---- | --------------------------------- |
+| Website (Global) |                            |                              |                         |      |                                   |
+| Console (Global) |                            |                              |                         |      |                                   |
+| Site (China)     | https://www.aliyun.com     | https://www.amazonaws.cn     | https://www.azure.cn    | N/A  | https://cloud.tencent.com         |
+| Console (China)  | https://console.aliyun.com | https://console.amazonaws.cn | https://portal.azure.cn | N/A  | https://console.cloud.tencent.com |
 
 #### International Cloud Vendors
 
